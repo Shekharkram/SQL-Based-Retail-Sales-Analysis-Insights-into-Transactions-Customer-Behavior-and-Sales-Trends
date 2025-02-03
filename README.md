@@ -199,3 +199,5 @@ GROUP BY shift
 5. **Popular Product Categories**:  
    The analysis highlights the most popular categories based on total sales, offering valuable insights into customer preferences. This information can help in product stocking decisions, ensuring high-demand items are always available.
 
+![SQL](https://img.shields.io/badge/language-SQL-blue)
+
